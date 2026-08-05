@@ -1,9 +1,9 @@
 {
-  "name": "Shades of Revenge",
-  "description": "Tema roxo neon inspirado no visual Shades of Purple.",
+  "name": "shades of revenge ♡",
+  "description": "um tema roxinho inspirado em shades of purple, feito com carinho :3",
   "authors": [
     {
-      "name": "Lucky"
+      "name": "lucky"
     }
   ],
   "spec": 2,
@@ -427,5 +427,6 @@
     "BLUE_630": "#204848",
     "BLUE_660": "#173535",
     "BLUE_700": "#102626"
-  }
+  },
+  "version": "2.0"
 }
