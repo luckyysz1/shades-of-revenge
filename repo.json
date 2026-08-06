@@ -1,0 +1,10 @@
+{
+  "$meta": {
+    "name": "shades of revenge ♡",
+    "description": "tema roxo e plugin de ícones fofinhos por lucky"
+  },
+  "shades-icons": {
+    "version": "2.1.0",
+    "alwaysFetch": true
+  }
+}
