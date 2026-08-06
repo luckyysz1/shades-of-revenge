@@ -1,1 +1,14 @@
-
+{
+  "name": "shades+ ♡",
+  "description": "mostra o @ depois do nick, adiciona apelidos e notas locais, datas, ações rápidas e detalhes de chat na paleta shades of revenge",
+  "authors": [
+    {
+      "name": "lucky"
+    }
+  ],
+  "main": "index.js",
+  "vendetta": {
+    "icon": "SparklesIcon"
+  },
+  "hash": "23f991808b97cc00b537c4209670d5692c6fef1430d44a84a5f74aefe2183dc1"
+}
